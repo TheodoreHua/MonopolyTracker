@@ -1,0 +1,4 @@
+configparser~=5.0.0
+matplotlib~=3.2.1
+numpy~=1.18.2
+ttkSimpleDialog~=1.2.1
