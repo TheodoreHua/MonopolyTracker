@@ -1,6 +1,6 @@
 # Monopoly Tracker
 
-[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+[![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/theodorehuadev@gmail.com)  
 [![GitHub issues](https://img.shields.io/github/issues/TheodoreHua/MonopolyTracker)](https://github.com/TheodoreHua/MonopolyTracker/issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheodoreHua/MonopolyTracker)
