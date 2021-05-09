@@ -17,3 +17,18 @@ keeps track of some elements of a physical game.
 2. Run `pip install -r requirements.txt` in the folder where you extracted the files (you might need to do so as
    root/admin).
 3. Run `MonopolyTracker.pyw`
+
+## Screenshots
+
+![Main Menu](https://pomf.lain.la/f/kuovh95k.png)
+
+## Config Options
+
+Config file is located at `installation_directory/data/config.ini`.
+
+- ***Money:*** Amount of money players start with.
+- ***Go Money:*** Amount of money players get when passing Go.
+- ***Name Prefix:*** Default prefix for player names.
+- ***Monopoly Set:*** Which monopoly set to use (end of filename, `card_set_us.json` would be `US` in the config option)
+- ***Dice Num:*** Number of dice to roll in the dice roll option.
+- ***Minimum Prop Similarity:*** Minimum amount of similarity for typo detection in property names.
