@@ -37,6 +37,8 @@ Config file is located at `data/config.ini` in the installation directory.
 
 - ***Selected Player:*** Current selected player for actions.
 
+---
+
 ### Money
 
 #### Add Money
@@ -70,6 +72,8 @@ Calculates the net-worth of the selected player (total of money, properties, and
 #### Show Money Graph
 
 Shows a graph with of the selected player's money history.
+
+---
 
 ### Property
 
@@ -121,6 +125,8 @@ Show a list of properties the selected player owns and how many houses those pro
 Show the number of times a property has been stepped on and how much money it's made (on average and in total).
 [*Selected player doesn't matter in this case*]
 
+---
+
 ### Misc.
 
 #### Jail
@@ -138,6 +144,8 @@ Change the name of the current selected player.
 #### Check Winner
 
 Calculate the current winner based on total money (based on net worth). [*Selected player doesn't matter in this case*]
+
+---
 
 ### Non-Gameplay Actions
 
