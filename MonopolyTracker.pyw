@@ -4,6 +4,8 @@
 #  file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # ------------------------------------------------------------------------------
 
+# noinspection PyUnresolvedReferences
+import sys
 from random import randint
 from tkinter import *
 from tkinter import ttk
