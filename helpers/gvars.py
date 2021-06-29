@@ -9,4 +9,4 @@ from .file import get_defaults, get_config, assert_data
 assert_data()
 CONFIG = get_config()
 DEFAULTS = get_defaults()
-VERSION = "1.0.0"
+VERSION = "1.0.1"
